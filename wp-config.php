@@ -1,5 +1,6 @@
 <?php
 /**
+ * Se realizo la configuración para cambiar y subir los datos al servidor
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the installation.
